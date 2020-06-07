@@ -1,0 +1,6 @@
+hello test sample for new word. this going to count the words for me.
+sample template is or searcing words in file going to be printed
+is line three of the file
+this line four
+this is is line five.
+.
