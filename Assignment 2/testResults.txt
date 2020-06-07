@@ -1,0 +1,28 @@
+UNIX Script
+Command 1: cat testData.txt
+========== output============
+Assignment 2
+California
+Arkansas
+Nevada
+Chicago
+New York
+Washington
+Command 2: find . -type f -name *.sh
+========== output============
+./test.sh
+Command 3: tail -n 5 testData.txt
+========== output============
+Arkansas
+Nevada
+Chicago
+New York
+Washington
+Command 4: pwd
+========== output============
+/home/mehnaz/CST-221/Assignment 2
+Command 5: sort testData.txt | head -n 3
+========== output============
+Arkansas
+Assignment 2
+California
