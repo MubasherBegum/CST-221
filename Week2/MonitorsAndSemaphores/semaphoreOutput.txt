@@ -1,0 +1,8 @@
+Online Purchase 1: Card 3405672355345679 has credit $1500.000000
+Starting threads
+Transaction debited $100 from Card 3405672355345679. Total credit available is $1400.000000
+Transaction is completed!
+Online Purchase 2: Card 3405672355345679 has credit of $1400.000000
+Transaction debited $250 from Card 3405672355345679. Total credit available is $1150.000000
+Transaction is completed!
+Total credit available is $1150.000000
