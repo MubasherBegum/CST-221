@@ -1,0 +1,20 @@
+Increment Counter before before entering critical section : 2
+In Sleep mode as Thread 3526 is starved.
+Counter increment inside critical selection: 4
+Thread 3526 is in wake up mode.
+Process 3526 accessing shared resource, num: 10 
+Increment Counter before before entering critical section : 2
+In Sleep mode as Thread 3528 is starved.
+Counter increment inside critical selection: 4
+Thread 3528 is in wake up mode.
+Process 3528 accessing shared resource, num: 10 
+Increment Counter before before entering critical section : 2
+In Sleep mode as Thread 3527 is starved.
+Counter increment inside critical selection: 4
+Thread 3527 is in wake up mode.
+Process 3527 accessing shared resource, num: 10 
+Increment Counter before before entering critical section : 2
+In Sleep mode as Thread 3529 is starved.
+Counter increment inside critical selection: 4
+Thread 3529 is in wake up mode.
+Process 3529 accessing shared resource, num: 10 
